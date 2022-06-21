@@ -1,0 +1,15 @@
+{
+  "name": "tech-demo",
+  "version": "1.0.0",
+  "description": "'this is just a demo project'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "balenzi phillip",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.10",
+    "node": "^17.7.2"
+  }
+}
